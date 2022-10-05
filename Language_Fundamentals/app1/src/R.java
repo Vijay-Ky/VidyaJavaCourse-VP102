@@ -6,7 +6,9 @@ class R
 		double j = 100.4;
 		char k = '%';
 		boolean b = true;
-		String s = "abc";
+
+		String s = "abcxyzabc";
+
 		System.out.println(i);
 		System.out.println(j);
 		System.out.println(k);

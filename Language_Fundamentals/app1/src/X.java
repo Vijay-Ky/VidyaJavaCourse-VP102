@@ -2,12 +2,14 @@ class X
 {
 	public static void main(String[] args) 
 	{
-		int x, y, z = 20, p;
+		int x, y, z = 20, p, s, r;
 		x = 10;
-		y = p = 20;
-		System.out.println(x);
-		System.out.println(y);
-		System.out.println(z);
-		System.out.println(p);
+		y = p = s = r = 20;//compound assignment
+		System.out.println(x);//10
+		System.out.println(y);//20
+		System.out.println(z);//20
+		System.out.println(p);//20
+		System.out.println(s);//20
+		System.out.println(r);//20
 	}
 }

@@ -2,8 +2,7 @@ class U
 {
 	public static void main(String[] args) 
 	{
-		double j;//decalaration
-		j = 10.6;//initialization
+		double j = 10.6;//declaration + initialization
 		System.out.println(j);
 		j = 20.8;//reinitialization
 		System.out.println(j);
